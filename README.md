@@ -16,6 +16,11 @@ If your project is hosted on GitHub, clone it using:
 git clone  https://github.com/IsaacGerald/Blog-Post-Api.git
 ```
 
+You can also navigate to the GitHub rep using this url:
+```sh
+https://github.com/IsaacGerald/Blog-Post-Api/tree/main
+```
+
 ### 2. Open the Project in IntelliJ IDEA
 - Open IntelliJ IDEA.
 - Click on **File → Open**.
@@ -81,7 +86,7 @@ Or via IntelliJ:
 - Or right-click a test class and select **Run 'Tests'**.
 
 ## Troubleshooting
-- **Port Already in Use:** Change the port in `application.properties`:
+- **Port Already in Use:** Change the port in `application.properties` from:
   ```properties
   server.port=8062
   ```
