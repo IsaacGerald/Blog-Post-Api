@@ -94,5 +94,7 @@ Or via IntelliJ:
 - **JDK Issues:** Ensure the correct JDK is selected under **File → Project Structure**.
 
 ---
-Now your Spring Boot application should be running successfully in IntelliJ IDEA! 🚀
+
+## Project Url
+https://roadmap.sh/projects/blogging-platform-api 🚀
 
